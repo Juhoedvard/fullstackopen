@@ -29,7 +29,7 @@ const BlogList = () => {
 
   return(
     <div>
-      <h2 className="self-center text-2xl text-5xl font-extrabold dark:text-gray whitespace-nowrap dark:text-gray-600 relative mx-auto max-w-screen-xl py-5">Blogs</h2>
+      <h2 className="self-center text-2xl font-extrabold dark:text-gray whitespace-nowrap dark:text-gray-600 relative mx-auto max-w-screen-xl py-5">Blogs</h2>
       <BlogForm/>
       <div className='py-5'>
         {

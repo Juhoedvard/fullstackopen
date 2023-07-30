@@ -7,6 +7,7 @@ const blogsRouter = require('./controllers/blogs')
 const usersRouter = require('./controllers/users')
 const loginRouter = require('./controllers/login')
 const commentRouter = require('./controllers/comments')
+
 if(process.env.NODE_ENV === 'test'){
     const testingRouter = require('./controllers/testing')
     app.use('/api/testing', testingRouter)

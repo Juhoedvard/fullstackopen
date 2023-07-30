@@ -1,1 +1,0 @@
-Korjaa jos blogi poistettu niin kommentit poistuvat tms.
