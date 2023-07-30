@@ -8,18 +8,18 @@ This project is my first touch to web development so it is not so advanced. Proj
 I used create-react-app to setup the project and following frameworks: 
 
   Client: 
-  -[create-react-app](https://create-react-app.dev/)
-  -[axios](https://axios-http.com/docs/intro)
-  -[react](https://react.dev/) react-redux, react-router-dom
-  -[Tailwindcss](https://tailwindcss.com/)
+  - [create-react-app](https://create-react-app.dev/)
+  - [axios](https://axios-http.com/docs/intro)
+  - [react](https://react.dev/) react-redux, react-router-dom
+  - [Tailwindcss](https://tailwindcss.com/)
 
   Server: 
-  -[MongoDB](https://www.mongodb.com/) for database 
-  -[Mongoose](https://mongoosejs.com/) for managing database
-  -[Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) for authentication
-  -[cors](https://www.npmjs.com/package/cors) for middleware
-  -[express](https://expressjs.com/) for manage serverside
-  -[jest](https://jestjs.io/) for testing
+  - [MongoDB](https://www.mongodb.com/) for database 
+  - [Mongoose](https://mongoosejs.com/) for managing database
+  - [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) for authentication
+  - [cors](https://www.npmjs.com/package/cors) for middleware
+  - [express](https://expressjs.com/) for manage serverside
+  - [jest](https://jestjs.io/) for testing
   
 
 ##Installation
